@@ -1,0 +1,20 @@
+Install
+
+typegraphql
+express
+apollo
+ts-node
+typescript
+graphql
+mongodb
+joi
+libphonenumber
+
+Dev Dependencies
+nodemon
+
+Use case
+--Envoyer un mail/sms de rappel (patient/medecin)
+--Envoyer un mail/sms de confirmation/annulation rendez-vous (patient)
+--Enviyer un mail/sms nouveau rendez-vous (patient/medecin)
+--Envoyer un mail/sms prive a un patient
